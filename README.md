@@ -1,24 +1,25 @@
-# 📊 Introdução à Data Science com Jupyter Notebook
+# 📊 Introduction to Data Science with Jupyter Notebook
 
-Este repositório contém um notebook introdutório com conceitos básicos de **Data Science**. É voltado para iniciantes que desejam entender os primeiros passos na área, incluindo linguagens utilizadas, bibliotecas essenciais e ambientes de programação comuns.
+This repository contains an introductory notebook with basic concepts of **Data Science**. It is designed for beginners who want to understand the first steps in the field, including commonly used languages, essential libraries, and typical development environments.
 
-## 🧠 Sobre o Projeto
+## 🧠 About the Project
 
-O notebook aborda tópicos fundamentais como:
+The notebook covers fundamental topics such as:
 
-- Linguagens mais utilizadas na área
-- Principais bibliotecas e suas funções
-- Ferramentas e ambientes de desenvolvimento
-- Comandos e exemplos práticos em Python
+- What is Data Science?
+- Most used programming languages
+- Key libraries and their purposes
+- Tools and development environments
+- First commands and practical examples in Python
 
-## 🧰 Tecnologias Utilizadas
+## 🧰 Technologies Used
 
-- **Python 3.**  
-- **Jupyter Notebook**
+- **Python 3**  
+- **Jupyter Notebook**  
 
-## 💻 Ambiente de Desenvolvimento
+## 💻 Development Environment
 
-Você pode executar o notebook localmente ou utilizando plataformas online, como:
+You can run the notebook locally or using online platforms like:
 
 - [Google Colab](https://colab.research.google.com/)
 - [Jupyter Notebook](https://jupyter.org/)
