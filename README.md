@@ -6,7 +6,6 @@ This repository contains an introductory notebook with basic concepts of **Data 
 
 The notebook covers fundamental topics such as:
 
-- What is Data Science?
 - Most used programming languages
 - Key libraries and their purposes
 - Tools and development environments
